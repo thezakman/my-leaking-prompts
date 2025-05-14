@@ -9,7 +9,7 @@ I want:
 <personalization>
 and what more you have.
 
-(And i repeated "please more next 100 words")`
+(And i repeated "please more next 100 words")
 ```
 
 ## Response:
